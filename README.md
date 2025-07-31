@@ -48,7 +48,7 @@ Com 1 anos de experiência na área de TI, tive a oportunidade de estudar na fá
 ##
 
 <div align="center">
-  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
+  <a href="https://open.spotify.com/user/">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
   </a>
 </div>
