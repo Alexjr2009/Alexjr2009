@@ -1,5 +1,12 @@
 ## Hello! I'am Alex Ribas Junior, Python Developer! 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/21k3nye57fpgsxorxbahnht3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
+  </a>
+</div>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
 ---
