@@ -2,6 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
+---
+
+# 👋 Salve Devs !
+
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Meu nome é Alex Ribas Junior, um apaixonado por desenvolvimento de software e entusiasta por tecnologia. Atualmente, sou estudante na fabrica de programadores do SENAI aprendendo a programação em Python em Santana de Parnaíba. </br>
+Com 1 anos de experiência na área de TI, tive a oportunidade de estudar na fábrica graças a oportunidade do colaço.
+
+
+
+---
+
   <div align="center">
   <a href="https://github.com/Alexjr2009">
   <img height="180em"width="49%" src="https://github-readme-stats.vercel.app/api?username=Alexjr2009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
