@@ -2,7 +2,6 @@
 
 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&width=650&height=30&lines=print(+%22Hello+Dev!+Welcome+to+my+Git+Hub%22+))](https://git.io/typing-svg)
 
 ---
@@ -48,7 +47,7 @@ Com 1 anos de experiência na área de TI, tive a oportunidade de estudar na fá
 ##
 
 <div align="center">
-  <a href="https://open.spotify.com/user/">
+  <a href="https://open.spotify.com/user/ALEX">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21k3nye57fpgsxorxbahnht3a&count=2&unique=false" alt="Musicas recem tocadas." width="500"/>
   </a>
 </div>
